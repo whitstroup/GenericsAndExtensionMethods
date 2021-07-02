@@ -30,10 +30,6 @@ namespace Generics
 
 
         }
-
-   
-
-
       
 
         //ExtensionMethods
@@ -41,6 +37,7 @@ namespace Generics
         //TODO in your new class create an extension method called "FindOdds" this method should take an IEnumerable of type integers and return a new IEnumerable of only the odd integers. Use linq in the scope to find odd numbers.
 
         //TODO Create an extension method called "SortArray". This method will take an array of type T. Then it will use a LINQ statement
+        //TODO call both extension methods in the Main. Use the method on the numbers Array.
 
 
     }
